@@ -62,6 +62,7 @@ encerrar
 
 📚 Base do Projeto
 Este projeto foi desenvolvido com base na Imersão IA da Alura (2025).
+
 https://www.alura.com.br/imersao-ia-google-gemini-ii
 
 📸 Exemplo de Execução

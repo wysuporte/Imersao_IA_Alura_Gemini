@@ -29,24 +29,29 @@ Este projeto implementa um chatbot fitness inteligente usando a API do Gemini da
 ## ▶️ Como Executar
 
 1. Clone este repositório:
-git clone https://github.com/wysuporte/chatbot-fitness-gemini.git
+git clone https://github.com/wysuporte/Imersao_IA_Alura_Gemini.git
 cd chatbot-fitness-gemini
 
-2. Instale as dependências
+3. Instale as dependências
 pip install google-genai
 
-3. Defina sua API Key no ambiente (caso não esteja no Colab):
+4. Defina sua API Key no ambiente (caso não esteja no Colab):
 export GOOGLE_API_KEY='sua-chave-aqui'
 
-4. Execute o script Python no terminal ou use diretamente no Google Colab.
+5. Execute o script Python no terminal ou use diretamente no Google Colab.
 https://goo.gle/alura-colab
 
 💡 Como Usar
 O chatbot solicitará seus dados pessoais:
+
 Nome
+
 Idade
+
 Peso (kg)
+
 Altura (cm)
+
 Em seguida, você poderá interagir livremente com perguntas como:
 Qual treino devo fazer hoje?
 Sugira uma alimentação para emagrecer.

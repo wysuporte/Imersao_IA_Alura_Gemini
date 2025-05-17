@@ -61,10 +61,15 @@ https://www.alura.com.br/imersao-ia-google-gemini-ii
 📸 Exemplo de Execução
 --
 🏋️‍♀️ Bem-vindo ao ChatBot Fitness com Gemini!
+
 Digite seu nome: João
+
 Digite sua idade: 28
+
 Digite seu peso (em kg): 80
+
 Digite sua altura (em cm): 178
+
 ---
 
 Olá João! Agora posso te ajudar com dicas personalizadas. O que você deseja saber?

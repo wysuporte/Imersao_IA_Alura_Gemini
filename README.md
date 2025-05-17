@@ -39,6 +39,7 @@ pip install google-genai
 export GOOGLE_API_KEY='sua-chave-aqui'
 
 5. Execute o script Python no terminal ou use diretamente no Google Colab.
+   
 https://goo.gle/alura-colab
 
 💡 Como Usar
